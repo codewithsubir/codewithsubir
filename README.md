@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @codewithsubir
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on 
-- 📫 subirsgghosh@gmail.com
+this is m2
 
 <!---
 codewithsubir/codewithsubir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
