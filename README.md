@@ -2,7 +2,7 @@
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on 
-- 📫 subirsgghosh@gmail.com
+ 📫 my email id subirsgghosh@gmail.com
 
 <!---
 codewithsubir/codewithsubir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
